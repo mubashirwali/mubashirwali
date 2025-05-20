@@ -3,16 +3,16 @@
   <img src="your-banner-link-here" alt="Rafi Ullah Banner" />
 </p>
 
-# Hi, I'm Your Name!
+# Hi, I'm Mubashir Wali!
 
-A passionate Full Stack Developer from Pakistan
+A passionate Web Developer from Pakistan
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🔭 I’m currently working on [Your Project / Company Name]
 - 🌐 All of my projects are available at [your-portfolio-link]
-- 💬 Ask me about **JavaScript, React, Node.js**
-- 📫 How to reach me: your-email@gmail.com
+- 💬 Ask me about **HTML , CSS**
+- 📫 How to reach me: mubashirwali78@gmail.com
 - ⚡ Fun fact: _I am a hardworking and creative developer_
 
 ---
