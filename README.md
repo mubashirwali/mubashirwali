@@ -1,6 +1,6 @@
-<!-- Banner Image -->
+<!-- Banner Image 
 <p align="center">
-  <img src="WhatsApp Image 2025-05-01 at 11.02.00 PM.jpeg" alt="Rafi Ullah Banner" />
+  <img src="WhatsApp Image 2025-05-01 at 11.02.00 PM.jpeg" alt="Rafi Ullah Banner"  width="300" />
 </p>
 
 # Hi, I'm Mubashir Wali!
