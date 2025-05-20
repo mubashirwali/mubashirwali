@@ -1,9 +1,5 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="WhatsApp Image 2025-05-01 at 11.02.00 PM.jpeg" alt="mubashir Banner" width="300" />
-</p>
-
-# Hi, I'm Mubashir Wali!
+# Hi 👋 I'm Mubashir Wali!
 
 A passionate Web Developer from Pakistan
 
