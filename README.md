@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="your-banner-link-here" alt="Rafi Ullah Banner" />
+  <img src="whattsapp image" alt="Rafi Ullah Banner" />
 </p>
 
 # Hi, I'm Mubashir Wali!
