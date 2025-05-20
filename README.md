@@ -1,14 +1,53 @@
-- 👋 Hi, I’m @mubashirwali
-- 👀 I’m interested in web development, especially front-end design and user experience.
-- 🌱  I’m currently learning at SMIT Mass IT Training Program, focusing on web technologies like HTML, CSS,JavaScript, and React.
-- 💞️ I’m looking to collaborate on open-source web development projects to grow my skills and contribute to the community.
-- 📫  How to reach me: Email: mubashirwali78@gmail.com 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving real-world problems with code and enjoy exploring new tech trends.
+<!-- Banner Image -->
+<p align="center">
+  <img src="your-banner-link-here" alt="Rafi Ullah Banner" />
+</p>
 
+# Hi, I'm Your Name!
 
+A passionate Full Stack Developer from Pakistan
 
-<!---
-mubashirwali/mubashirwali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+
+- 🔭 I’m currently working on [Your Project / Company Name]
+- 🌐 All of my projects are available at [your-portfolio-link]
+- 💬 Ask me about **JavaScript, React, Node.js**
+- 📫 How to reach me: your-email@gmail.com
+- ⚡ Fun fact: _I am a hardworking and creative developer_
+
+---
+
+## Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/your-link" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://instagram.com/your-link" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <a href="https://hashnode.com/@yourhandle" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" alt="hashnode" height="30" width="40" /></a>
+</p>
+
+---
+
+## Languages and Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+</p>
+
+---
+
+## GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
+
+---
+
+> Thanks for visiting my profile!
