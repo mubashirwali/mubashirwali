@@ -7,7 +7,7 @@ A passionate Web Developer from Pakistan
 
 - 🔭 I’m currently working on [Your Project / Company Name]
 - 🌐 All of my projects are available at [your-portfolio-link]
-- 💬 Ask me about **HTML , CSS**
+- 💬 Ask me about **HTML , CSS , javaScript**
 - 📫 How to reach me: mubashirwali78@gmail.com
 - ⚡ Fun fact: _I am a hardworking and creative developer <br> <br> <br>
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
